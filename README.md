@@ -24,7 +24,7 @@ Testa Gava is a simple web application designed to make offers to issue and veri
 
 ### For Farmers
 
-1. **Access the application**: Open the `index.html` file or `linkFulaniInakam` in any web browser
+1. **Access the application**: Open the `issuer/index.html` file or `linkFulaniInakam` in any web browser
 
 2. **Request your digital ID**:
    - Click the "Issue My Digital ID" button
