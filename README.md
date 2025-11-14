@@ -1,8 +1,13 @@
-# Testa Gava Farmer Digital ID Infrastructure
+# Testa Farmer Digital ID Infrastructure
 
 ## Overview
 
-Testa Gava is a simple web application designed to make offers to issue and verify verifiable digital credentials to farmers. This lightweight, single-page application interfaces with a Walt.id credential issuance service to provide farmers with portable digital identities.
+Testa is a simple web application designed to make offers to issue and verify verifiable digital credentials to farmers. This lightweight, single-page application interfaces with a Walt.id credential issuance service to provide farmers with portable digital identities.
+
+Testa has two main divisions:
+
+- Testa Gava - credential issuance
+- Testa SACCO - credential verification
 
 ## Features
 
@@ -79,4 +84,4 @@ Testa Gava is a simple web application designed to make offers to issue and veri
 
 ---
 
-&copy; 2025 Testa Gava
+&copy; 2025 Testa
